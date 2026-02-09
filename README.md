@@ -2,7 +2,12 @@ Process Improvement Data Analytics Platform
 A production‑ready data analytics platform with three interactive dashboards for retail sales optimization, supply chain efficiency, and customer support time reduction.
 All screens are powered by your Python code, and the imagined screenshots below show each dashboard running with realistic, fictional data.
 
-Executive Summary
+![img1](https://github.com/user-attachments/assets/27ba5318-7e10-49d7-ac1c-42e458a175ec)
+![img4](https://github.com/user-attachments/assets/1ea6b5b3-142e-4ea2-ae6e-a53746e55725)
+![img3](https://github.com/user-attachments/assets/1a42a231-e5fc-4406-985d-b48fac3671bd)
+![img2](https://github.com/user-attachments/assets/05eac6df-2f73-405c-b763-363298e1d6c8)
+
+Executive Summary:
 What this project delivers
 3 interactive dashboards powered by one codebase (app.py + project modules).
 
